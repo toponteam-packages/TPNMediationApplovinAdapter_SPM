@@ -18,7 +18,7 @@ let package = Package(
         .binaryTarget(
             name: "AnyThinkApplovinAdapter",
             url: "https://topon-sdk-release.oss-accelerate.aliyuncs.com/TPN_Release/iosnetwork_2/AnyThinkApplovinAdapter/13.6.4.2.9/AnyThinkApplovinAdapter-13.6.4.2.9.zip",
-            checksum: "5831b31e175c7c64d7daaa524c1c9051cd469c7c704612b628116cf928d8779c"
+            checksum: "49eea70610e8dfa3475e7346799886a2e8df9ab915d6ec571f87786ad0997059"
         ),
         .target(
             name: "TPNMediationApplovinAdapterTarget",
